@@ -1,15 +1,15 @@
 
 
-<img src="https://github.com/Heberty123/chess-system-java/blob/master/chess.jpg" width="49%" height="49%">  <img src="https://github.com/Heberty123/chess-system-java/blob/master/chess.jpg" width="49%" height="49%">
+<img src="https://github.com/Heberty123/chess-system-java/blob/master/chess.jpg" width="49%" height="49%">  <img src="https://github.com/Heberty123/chess-system-java/blob/master/chess1.jpg" width="49%" height="49%">
 
-> Java  Chess system - Academy Udemy
+<h1 align="center"> Java  Chess system - Academy Udemy </h1>
 
 
 ## 🚩 Table of Contents
 
-- [Packages](#-packages)
-- [Why TOAST UI Editor?](#-why-toast-ui-editor)
-- [Features](#-features)
+- [Intellij IDE](#-packages)
+- [UDEMY Academy](#-why-toast-ui-editor)
+- [Teacher Nélio Alves](#-features)
 - [Examples](#-examples)
 - [Browser Support](#-browser-support)
 - [Pull Request Steps](#-pull-request-steps)
